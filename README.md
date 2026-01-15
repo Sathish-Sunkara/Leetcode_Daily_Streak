@@ -14,10 +14,6 @@
 ---
 
 ## 🛠️ Tech Stack
-- Language: Java / Python / C++ (update yours)
+- Language: Java / Python / SQL / Pandas / Numpy / Javascript
 - Platform: LeetCode
-- Sync: Auto-synced submissions
-
----
-
-## 📊 Structure
+- Sync: Auto-synced submissions.
