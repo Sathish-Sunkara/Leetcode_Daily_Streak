@@ -13,7 +13,7 @@ class Solution:
         n = len(bank)
         for i in range(n) :
             floor = bank[i]
-            total_devices = count_devices(floor)
+            total_devices = floor.count("1")
             if total_devices == 0 :
                 continue
             if prev is None :
